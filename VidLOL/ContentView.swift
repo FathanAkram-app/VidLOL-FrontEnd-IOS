@@ -25,20 +25,7 @@ struct ContentView: View {
                     },label:{
                         Image("gear")
                     })
-//                    switch content{
-//                    case "Browse":
-//                        Button(action: {
-//
-//                        },label:{
-//                            Image("magnifyingglass")
-//                        })
-//                    default:
-//                        Button(action: {
-//
-//                        },label:{
-//                            Image("gear")
-//                        })
-//                    }
+
                     
                         
                     
